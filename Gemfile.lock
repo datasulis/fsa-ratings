@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hashie (3.2.0)
+    json (1.8.1)
+    mini_portile (0.6.0)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
+    soda-ruby (0.2.12)
+      hashie
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  nokogiri
+  soda-ruby
